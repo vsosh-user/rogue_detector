@@ -1,0 +1,71 @@
+# Common router/AP vendors (OUI prefixes). One per line. Lines after "#" are comments.
+# Cisco / Linksys / Netgear
+00:1a:1e # Cisco
+00:1b:63 # Cisco
+00:1c:bf # Cisco
+00:22:b0 # Linksys
+44:94:fc # Netgear
+# TP-Link / Mercusys
+10:6f:3f # TP-Link
+18:64:72 # TP-Link
+f8:8e:85 # TP-Link
+d4:6e:0e # Mercusys
+b0:4e:26 # TP-Link
+# Ubiquiti
+f4:92:bf # Ubiquiti
+34:36:3b # Ubiquiti
+24:a4:3c # Ubiquiti
+# MikroTik
+d8:c7:c8 # MikroTik
+fc:ec:da # MikroTik
+dc:2c:6e # MikroTik
+# Huawei / Honor
+3c:84:6a # Huawei
+ac:bc:32 # Huawei
+c4:b3:01 # Huawei
+d4:2c:44 # Huawei
+# ZTE
+e4:95:6e # ZTE
+98:4f:ee # ZTE
+f4:3e:61 # ZTE
+# Xiaomi
+b0:be:76 # Xiaomi
+14:5a:fc # Xiaomi
+54:48:e6 # Xiaomi
+# Apple (hotspot)
+ac:3c:0b # Apple
+f0:18:98 # Apple
+84:fc:ef # Apple
+# ASUS
+e8:2a:44 # ASUS
+0c:80:63 # ASUS
+1c:87:2c # ASUS
+# Zyxel / Keenetic
+50:46:5d # Zyxel
+64:16:f0 # Zyxel
+b0:6e:bf # Keenetic
+dc:ef:ca # Zyxel
+# D-Link
+00:1e:58 # D-Link
+00:24:01 # D-Link
+c0:a0:bb # D-Link
+# Tenda / Nova
+c8:3a:35 # Tenda
+50:64:2b # Tenda
+50:bd:5f # Nova
+# Sagemcom (RU ISPs)
+f4:8e:38 # Sagemcom
+44:e0:6e # Sagemcom
+ec:8a:4c # Sagemcom
+# MegaFon-branded CPE
+08:5a:11 # MegaFon
+# Sercomm (MTS/MGTS/Beeline)
+00:90:8f # Sercomm
+54:2a:1b # Sercomm
+f0:79:59 # Sercomm
+# Eltex (RU)
+00:25:ca # Eltex
+14:da:e9 # Eltex
+# Extras (Rostelecom-branded)
+a4:93:3f # ZTE/OEM
+f8:1a:67 # Huawei/OEM
